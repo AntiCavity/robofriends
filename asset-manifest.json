@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.fdd0bd72.css",
+    "main.js": "/robofriends/static/js/main.4cfaa410.js",
+    "static/media/DisposableDroidBB_bld.ttf": "/robofriends/static/media/DisposableDroidBB_bld.06b18e478ba7015835a5.ttf",
+    "index.html": "/robofriends/index.html",
+    "main.fdd0bd72.css.map": "/robofriends/static/css/main.fdd0bd72.css.map",
+    "main.4cfaa410.js.map": "/robofriends/static/js/main.4cfaa410.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd0bd72.css",
+    "static/js/main.4cfaa410.js"
+  ]
+}
